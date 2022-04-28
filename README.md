@@ -1,7 +1,7 @@
 # React App on MU
 
-![Screen Banner](../../../Documentation/1.jpg)
-![Screen Banner](../../Documentation/2.jpg)
+![Screen Banner](../../../documentation/1.jpg)
+![Screen Banner](../../documentation/2.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
